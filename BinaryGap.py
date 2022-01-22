@@ -16,6 +16,8 @@ Write an efficient algorithm for the following assumptions:
 N is an integer within the range [1..2,147,483,647].
 '''
 
+### Attempted on the 18th of January 2022
+
 def solution(N):
     # write your code in Python 3.6
     b = []
